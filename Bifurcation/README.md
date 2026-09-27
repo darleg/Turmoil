@@ -10,4 +10,3 @@ Notes:
 The logistic map was initially utilized by Edward Lorenz in the 1960s to showcase properties of irregular solutions in climate systems.
 
 
-https://github.com/darleg/Turmoil/blob/main/Bifurcation/Python/Bifurplot.png
