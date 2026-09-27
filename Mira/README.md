@@ -1,0 +1,1 @@
+Gumowski‑Mira AttractorThe Gumowski‑Mira attractor was created in 1980 by I. Gumowski and C. Mira while they were at the Centre de recherche du CERN in Geneva, Switzerland. Gumowski and Mira developed the system of equations to simulate the trajectories of sub‑atomic particles in a few‑metre‑long cylindrical particle accelerator.
