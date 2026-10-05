@@ -6,5 +6,4 @@ until you understand the math behind them.
 
 Bifurcation theory studies how a dynamical system’s qualitative behavior changes when a parameter crosses a critical threshold.
 Attractor theory studies the sets toward which system states evolve and remain, describing the system’s long-term behavior.
-A strange attractor is a fractal‑like set in a nonlinear dynamical system toward which trajectories evolve, showing bounded but chaotic behavior. 
-dddd
+A strange attractor is a fractal‑like set in a nonlinear dynamical system toward which trajectories evolve, showing bounded but chaotic behavior.
