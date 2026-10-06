@@ -1,0 +1,1 @@
+Gumowski‑Mira Attractor
